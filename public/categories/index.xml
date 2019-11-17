@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on n0c7urn3</title>
-    <link>/posts/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on n0c7urn3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2019 n0c7urn3 :: Powered by Hugo :: Theme made by panr  ::  The views expressed here are my own and do not reflect those of my past, present, or future employers</copyright>
     <lastBuildDate>Sun, 16 Jun 2019 12:51:54 -0600</lastBuildDate>
     
-	<atom:link href="/posts/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>personal</title>
-      <link>/posts/categories/personal/</link>
+      <link>/categories/personal/</link>
       <pubDate>Sun, 16 Jun 2019 12:51:54 -0600</pubDate>
       
-      <guid>/posts/categories/personal/</guid>
+      <guid>/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>professional</title>
-      <link>/posts/categories/professional/</link>
+      <link>/categories/professional/</link>
       <pubDate>Sun, 19 May 2019 08:46:35 -0600</pubDate>
       
-      <guid>/posts/categories/professional/</guid>
+      <guid>/categories/professional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>creative</title>
-      <link>/posts/categories/creative/</link>
+      <link>/categories/creative/</link>
       <pubDate>Sat, 27 Apr 2019 10:55:59 -0600</pubDate>
       
-      <guid>/posts/categories/creative/</guid>
+      <guid>/categories/creative/</guid>
       <description></description>
     </item>
     
